@@ -105,6 +105,13 @@ body {
     letter-spacing: 1px;
 }
 
+.logo-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
 .nav-links {
     display: flex;
     gap: 32px;
